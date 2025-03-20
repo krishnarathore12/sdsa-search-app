@@ -1,0 +1,9 @@
+__pycache__
+
+# Ignore database files
+search-app/server/db
+
+# Ignore other common large file types
+*.log
+*.zip
+*.tar.gz
